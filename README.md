@@ -8,4 +8,4 @@ Screenshot here:
 
 ![alt text][screenshot]
 
-[screenshot]: https://github.com/derek-watson14/react-portfolio/src/images/screenshot.png "About me section"
+[screenshot]: https://raw.githubusercontent.com/derek-watson14/react-portfolio/master/src/images/screenshot.png "About me section"
