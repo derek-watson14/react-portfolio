@@ -86,7 +86,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'photography.png',
-    title: 'drinkMe: find cocktail recipes and bars',
+    title: 'Photography: a gallery of photos from around the world',
     info:
       "This was my first ever HTML & CSS site, which showcased my travel photography. I'm including it here more for the photographs than the code",
     info2: '',
