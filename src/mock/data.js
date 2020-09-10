@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: "Hey there! I'm",
   name: 'Derek',
-  subtitle: 'and I like to build stuff with code.',
+  subtitle: 'and I like to make stuff with code.',
   cta: 'About me',
 };
 
@@ -24,7 +24,7 @@ export const aboutData = {
     "I'm always looking to learn to write cleaner code, improve my skills in design and expand my abilities as a developer.",
   paragraphThree:
     'Outside of web development, I graduated from Washington State University with a degree in Communication in 2014, spent five years travelling internationally, know German to a CEFR B2 (intermediate) level, and am a 20-40km a week runner.',
-  resume: '', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/13bEl9n3VcMuAGYOysEj6LmCaSJqv2BXM/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -80,8 +80,8 @@ export const projectsData = [
       "Hachi Kuchi is the website I made for my friend's artist collective, which was growing pre covid. Since then events have been cancelled and the site has not been updated.",
     info2:
       'The site was build using React with styled components and is the first site I built with Gatsby rather than create-react-app. Deployment on Netlify.',
-    url: 'https://github.com/derek-watson14/hachi-kuchi',
-    repo: 'https://hachikuchi.com/',
+    url: 'https://hachikuchi.com/',
+    repo: 'https://github.com/derek-watson14/hachi-kuchi',
   },
   {
     id: nanoid(),
@@ -90,8 +90,8 @@ export const projectsData = [
     info:
       "This was my first ever HTML & CSS site, which showcased my travel photography. I'm including it here more for the photographs than the code",
     info2: '',
-    url: 'https://github.com/derek-watson14/homepage',
-    repo: 'https://derek-watson14.github.io/homepage/',
+    url: 'https://derek-watson14.github.io/homepage/',
+    repo: 'https://github.com/derek-watson14/homepage',
   },
 ];
 
