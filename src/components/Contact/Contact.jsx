@@ -18,7 +18,7 @@ const Contact = () => {
               {cta || 'Would you like to work with me? Awesome!'}
             </p>
             <p className="contact-wrapper__text">
-              {email} | {phone}
+              {email} || {phone}
             </p>
             <a
               target="_blank"
