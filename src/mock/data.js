@@ -24,7 +24,7 @@ export const aboutData = {
     "I'm always looking to learn to write cleaner code, improve my skills in design and expand my abilities as a developer.",
   paragraphThree:
     'Outside of web development, I graduated from Washington State University with a degree in Communication in 2014, spent five years travelling internationally, know German to a CEFR B2 (intermediate) level, and am a 20-40km a week runner.',
-  resume: 'https://drive.google.com/file/d/13bEl9n3VcMuAGYOysEj6LmCaSJqv2BXM/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1u8cumUNIaPCCXVDgrBQp1AmTyZ19jKpx/view', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
