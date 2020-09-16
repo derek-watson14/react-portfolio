@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profil.jpg',
   paragraphOne:
-    "I'm Derek Watson, an aspiring web developer from the Puget Sound region who is looking to break into the field professionally. I recently completed the University of Washington's full stack web development boot camp, prior to which I had done about a year and a half of self-teaching, including HarvardX's CS50 on edX and courses from various online instructors.",
+    "I'm Derek Watson, a web developer from the Puget Sound region who is looking for a professional opportunity. I recently completed the University of Washington's full stack web development bootcamp, prior to which I had done about a year and a half of self-teaching, including HarvardX's CS50 on edX and courses from various online instructors.",
   paragraphTwo:
     "Most of my skills focus on web development. I am proficient in HTML, CSS/SASS and JavaScript (Node, Express, React, jQuery) and  familiar with SQL, MongoDB and Python (Flask). I'm always looking to learn to write cleaner code, improve my skills in design and expand my abilities as a developer.",
   paragraphThree:

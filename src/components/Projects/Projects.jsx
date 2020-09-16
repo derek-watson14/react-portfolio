@@ -26,7 +26,7 @@ const Projects = () => {
     <section id="projects">
       <Container>
         <div className="project-wrapper">
-          <Title title="Projects" />
+          <Title title="Projects" subtitle="Note: projects that are deployed on the free tier of Heroku may load slowly because they sleep when inactive for 30 minutes or more." />
           {projects.map((project) => {
             const { title, info, info2, url, repo, img, id } = project;
 
