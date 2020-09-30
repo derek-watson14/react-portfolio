@@ -24,7 +24,7 @@ export const aboutData = {
     "Most of my skills focus on web development. I am proficient in HTML, CSS/SASS and JavaScript (Node, Express, React, jQuery) and  familiar with SQL, MongoDB and Python (Flask). I'm always looking to learn to write cleaner code, improve my skills in design and expand my abilities as a developer.",
   paragraphThree:
     'Outside of web development, I graduated from Washington State University with a degree in Strategic Communication in 2014, spent five years travelling internationally, know German to a CEFR B2 (advanced-intermediate) level, and am a 20-40km a week runner.',
-  resume: 'https://drive.google.com/file/d/1u8cumUNIaPCCXVDgrBQp1AmTyZ19jKpx/view',
+  resume: 'https://drive.google.com/file/d/1runsvcCB5PJv3IFz5j_HSYRF-eANzRKF/view',
 };
 
 // PROJECTS DATA
