@@ -17,13 +17,13 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profil.jpg',
+  img: 'profile.jpg',
   paragraphOne:
-    "I'm Derek Watson, a web developer from the Puget Sound region who is looking for a professional opportunity. I recently completed the University of Washington's full stack web development bootcamp, prior to which I had done about a year and a half of self-teaching, including HarvardX's CS50 on edX and courses from various online instructors.",
+    "I'm Derek Watson, a Seattle-based web developer searching for professional opportunities. After almost two years of online computer science and web development courses, in September 2020 I comleted the University of Washington's full stack web development bootcamp.",
   paragraphTwo:
-    "Most of my skills focus on web development. I am proficient in HTML, CSS/SASS and JavaScript (Node, Express, React, jQuery) and  familiar with SQL, MongoDB and Python (Flask). I'm always looking to learn to write cleaner code, improve my skills in design and expand my abilities as a developer.",
+    "My skillset focuses on web technologies. I am proficient with HTML, CSS/SASS and JavaScript (including Node.js, Express, React and jQuery) and am familiar with SQL, MongoDB and Python (Flask). I'm constantly seeking to expand my abilites - be that through learning new technologies, writing cleaner code or deepening my understanding of languages I've worked with in the past.",
   paragraphThree:
-    'Outside of web development, I graduated from Washington State University with a degree in Strategic Communication in 2014, spent five years travelling internationally, know German to a CEFR B2 (advanced-intermediate) level, and am a 20-40km a week runner.',
+    'Outside of programming, I studied Strategic Communication at Washington State University, spent five years travelling internationally, know German at an advanced-intermediate level and run 20-40km a week.',
   resume: 'https://drive.google.com/file/d/1runsvcCB5PJv3IFz5j_HSYRF-eANzRKF/view',
 };
 
