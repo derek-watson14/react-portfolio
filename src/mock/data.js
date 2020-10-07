@@ -24,7 +24,7 @@ export const aboutData = {
     "My skillset focuses on web technologies. I am proficient with HTML, CSS/SASS and JavaScript (including Node.js, Express, React and jQuery) and am familiar with SQL, MongoDB and Python (Flask). I'm constantly seeking to expand my abilites - be that through learning new technologies, writing cleaner code or deepening my understanding of languages I've worked with in the past.",
   paragraphThree:
     'Outside of programming, I studied Strategic Communication at Washington State University, spent five years travelling internationally, know German at an advanced-intermediate level and run 20-40km a week.',
-  resume: 'https://drive.google.com/file/d/1runsvcCB5PJv3IFz5j_HSYRF-eANzRKF/view',
+  resume: 'https://docs.google.com/document/d/1Inc9zC3Ch67CiwF_n4cEsaZYwJrlquuI_tPq0RdZ0xM/edit',
 };
 
 // PROJECTS DATA
