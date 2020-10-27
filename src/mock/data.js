@@ -74,17 +74,6 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'photography.png',
-    title: 'Photography: a gallery of photos from around the world',
-    info:
-      "This was my first ever HTML & CSS site, built as an assignment for the online HarvardX course CS50. I'm including it here more because it showcases my photography than for it's codebase.",
-    info2:
-      'I spent about half of each year from 2015 to 2019 travelling through Asia, Central America, Australia and Europe. The other half of the year I spent working on tug boats here in the Puget Sound to save money. These photographs are the product of that time of my life.',
-    url: 'https://derek-watson14.github.io/homepage/',
-    repo: 'https://github.com/derek-watson14/homepage',
-  },
-  {
-    id: nanoid(),
     img: 'hachikuchi.png',
     title: 'Hachi Kuchi: artist collective',
     info:
