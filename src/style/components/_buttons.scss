@@ -61,7 +61,7 @@
 }
 
 /* Resume Style */
-.cta-btn--resume {
+.cta-btn--projects {
   color: $white-color;
   border: 2px solid $white-color;
 
@@ -72,10 +72,23 @@
   &:hover {
     color: $secondary-color;
     text-decoration: none;
+    cursor: pointer;
 
     &::after {
       width: 100%;
     }
+  }
+}
+
+.cta-btn--resume {
+  color: $white-color;
+  border: 2px solid rgba($color: #fff, $alpha: 0);
+  vertical-align: middle;
+  text-align: center;
+  &:hover {
+    cursor: pointer;
+    color: $white-color;
+    transform: translateX(2px);
   }
 }
 

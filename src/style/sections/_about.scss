@@ -44,7 +44,7 @@
       flex-direction: column;
 
       @include respond(phone) {
-        align-items: center;
+        align-items: left;
       }
 
       &-text {

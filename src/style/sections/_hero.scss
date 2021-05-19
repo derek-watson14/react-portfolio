@@ -7,7 +7,7 @@
   background: $white-color;
   font-weight: 400;
   color: $dark-blue-text;
-  padding: 0rem 5.6rem;
+  padding: 0vh 12vh 24vh 12vh;
   margin-bottom: 0;
   top: 0;
   left: 0;
@@ -16,13 +16,14 @@
   z-index: -1;
 
   // If you want to set a background image on the hero section, uncomment these with yout custom image
-
-  background: url("/src/images/hero-bg.jpg");
+  background: url("/images/seattle-3.png");
   background-position: center;
   background-size: cover;
+  background-blend-mode: lighten;
+
 
   @include respond(phone) {
-    padding: 0rem $default-font-size;
+    padding: 1.6rem 1.6rem 25.6rem 1.6rem;
   }
 
   .hero-title {

@@ -1,5 +1,6 @@
 import React, { useContext, useState, useEffect } from 'react';
 import Fade from 'react-reveal/Fade';
+import { Link } from 'react-scroll';
 import { Container, Row, Col } from 'react-bootstrap';
 import Title from '../Title/Title';
 import AboutImg from '../Image/AboutImg';
@@ -50,6 +51,9 @@ const About = () => {
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
+                    <Link to="projects" smooth duration={1000}>
+                      <span className="cta-btn cta-btn--projects">Projects</span>
+                    </Link>
                     <a
                       target="_blank"
                       rel="noopener noreferrer"

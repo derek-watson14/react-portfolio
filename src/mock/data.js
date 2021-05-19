@@ -12,7 +12,7 @@ export const heroData = {
   title: 'Welcome! My name is',
   name: 'Derek Watson',
   subtitle: "and I'm a computer programmer and technology-lover.",
-  cta: 'More About Me',
+  cta: 'More about me',
 };
 
 // ABOUT DATA
@@ -80,7 +80,7 @@ export const contactData = {
   cta: 'Want to reach out? Get a hold of me at:',
   btn: "Let's chat",
   email: 'derek.watson92@gmail.com',
-  phone: '(360) 930-2390',
+  phone: '+1 (360) 930-2390',
 };
 
 // FOOTER DATA
