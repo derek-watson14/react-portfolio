@@ -22,7 +22,7 @@ const Contact = () => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              className="cta-btn cta-btn--resume"
+              className="cta-btn cta-btn--projects"
               href={email ? `mailto:${email}` : 'https://www.linkedin.com/in/watsonderek/'}
             >
               {btn || "Let's Talk"}

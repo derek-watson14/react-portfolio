@@ -13,7 +13,7 @@ const AboutImg = ({ filename, alt }) => (
               relativePath
               name
               childImageSharp {
-                fixed(width: 350) {
+                fixed(width: 265) {
                   ...GatsbyImageSharpFixed
                 }
               }
@@ -28,7 +28,7 @@ const AboutImg = ({ filename, alt }) => (
       if (!image) return null;
 
       const imageFixed = image.node.childImageSharp.fixed;
-      return <Img className="profile-radius rounded" alt={alt} fixed={imageFixed} />;
+      return <Img className="rounded profile-radius" alt={alt} fixed={imageFixed} />;
     }}
   />
 );
