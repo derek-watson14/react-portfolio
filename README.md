@@ -6,4 +6,4 @@ Screenshot:
 
 ![alt text][screenshot]
 
-[screenshot]: https://raw.githubusercontent.com/derek-watson14/react-portfolio/master/src/images/screenshot.png 'About me section'
+[screenshot]: https://raw.githubusercontent.com/derek-watson14/react-portfolio/master/src/images/screenshot-new.png 'About me section'
