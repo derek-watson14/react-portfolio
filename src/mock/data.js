@@ -9,21 +9,21 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'Hey there! My name is',
-  name: 'Derek',
-  subtitle: 'and I build modern websites.',
-  cta: 'About me',
+  title: 'Welcome! My name is',
+  name: 'Derek Watson',
+  subtitle: "and I'm a computer programmer and technology-lover.",
+  cta: 'More About Me',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'profile.png',
   paragraphOne:
-    "I'm Derek Watson, a Seattle-based web developer searching for professional opportunities. After almost two years of online computer science and web development courses, in September 2020 I comleted the University of Washington's full stack web development bootcamp.",
+    "Since graduating from Washington State University in 2014 with a degree in the decidedly non-STEM field of communications, I've focused my life around travel - visiting and living in places across Asia, Australia, Europe and Latin America.",
   paragraphTwo:
-    "My skillset focuses on web technologies. I am proficient with HTML, CSS/SASS and JavaScript (including Node.js, Express, React and jQuery) and am familiar with SQL, MongoDB and GraphQL. I'm constantly seeking to expand my abilites - be that through learning new technologies, writing cleaner code or deepening my understanding of languages I've worked with in the past.",
+    "To finance my travels, I worked seasonally in the maritime industry. At some point I decided that that wasn't what I wanted to do forever, and in 2018 I began taking computer programming courses online. I quickly found it was something I truly enjoyed doing. In 2020 I completed a coding bootcamp at the University of Washington and now, wanting to improve my fundamentals, I'm preparing to return to college online to study computer science in 2022.",
   paragraphThree:
-    'Outside of programming, I studied Strategic Communication at Washington State University, spent five years travelling internationally, know German at an advanced-intermediate level and run 20-40km a week.',
+    "My expertise lies primarily in web-related programming languages and frameworks. A list of technologies I'm familiar with can be found on my resume, linked below.",
   resume: 'https://docs.google.com/document/d/1Inc9zC3Ch67CiwF_n4cEsaZYwJrlquuI_tPq0RdZ0xM',
 };
 
