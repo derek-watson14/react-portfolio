@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from 'react';
+import ReactGA from 'react-ga';
+
 import Hero from './Hero/Hero';
 import About from './About/About';
 import Projects from './Projects/Projects';
@@ -8,6 +10,9 @@ import Footer from './Footer/Footer';
 import { PortfolioProvider } from '../context/context';
 
 import { heroData, aboutData, projectsData, contactData, footerData } from '../mock/data';
+
+const gaTrackingID = process.env.GA_TRACKING_ID;
+ReactGA.initialize(gaTrackingID);
 
 function App() {
   const [hero, setHero] = useState({});
