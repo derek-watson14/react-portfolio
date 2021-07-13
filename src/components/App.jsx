@@ -12,6 +12,7 @@ import { PortfolioProvider } from '../context/context';
 import { heroData, aboutData, projectsData, contactData, footerData } from '../mock/data';
 
 const gaTrackingID = process.env.GATSBY_GA_TRACKING_ID;
+console.log(gaTrackingID);
 ReactGA.initialize(gaTrackingID);
 
 function App() {
