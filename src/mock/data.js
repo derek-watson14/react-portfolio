@@ -11,19 +11,20 @@ export const headData = {
 export const heroData = {
   title: 'Welcome! My name is',
   name: 'Derek Watson',
-  subtitle: "and I'm a computer programmer and technology-lover.",
+  subtitle: "and I'm a computer programmer and data-enthusiast.",
   cta: 'More about me',
 };
+
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.png',
   paragraphOne:
-    "Since graduating from Washington State University in 2014 with a degree in the decidedly non-STEM field of communications, I've focused my life around travel - visiting and living in places across Asia, Australia, Europe and Latin America.",
+    "An aspiring data/software engineer with a degree in advertising and experience in web application development, I have been working toward a career in tech for years.",
   paragraphTwo:
-    "To finance my travels, I worked seasonally in the maritime industry. At some point I decided that that wasn't what I wanted to do forever, and in 2018 I began taking computer programming courses online. I quickly found it was something I truly enjoyed doing. In 2020 I completed a coding bootcamp at the University of Washington and now, wanting to improve my fundamentals, I'm preparing to return to college online to study computer science in 2022.",
+    "Learning first through googling and online courses, then through a bootcamp, I'm currently honing my data analytics skills and broadening my knowledge of computer science while completing a second bachelor’s degree in computer science at the University of Colorado.",
   paragraphThree:
-    "My expertise lies primarily in web-related programming languages and frameworks. A list of technologies I'm familiar with can be found on my resume, linked below.",
+    "The courses are challenging and rigorous but I feel more prepared than ever to work in this field and quickly learn to use new technologies to solve problems as they arise.",
   resume: 'https://docs.google.com/document/d/1Inc9zC3Ch67CiwF_n4cEsaZYwJrlquuI_tPq0RdZ0xM',
 };
 
