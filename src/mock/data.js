@@ -25,7 +25,7 @@ export const aboutData = {
     "I initially learned through online resources and courses, and later attended a coding bootcamp to further develop my skills. Currently, I am deepening my knowledge of computer science and enhancing my data analytics skills through a second bachelor's degree at the University of Colorado.",
   paragraphThree:
     "Despite the challenges and rigors of these courses, I am now equipped with a deeper understanding of computer science fundamentals beyong 'coding' as a skill. As a result, I feel better equipped than ever to work in this field and quickly adapt to new technologies in order to solve problems effectively.",
-  resume: 'https://docs.google.com/document/d/1Inc9zC3Ch67CiwF_n4cEsaZYwJrlquuI_tPq0RdZ0xM',
+  resume: 'https://docs.google.com/document/u/1/d/e/2PACX-1vRRrXf4WywUJI7hhfCc5xOWeJNzWWK1HdU8U-ZKX0IHepqYTonjJmkbmS7KLw74MkLL2Q64_Wg_FO41/pub',
 };
 
 // PROJECTS DATA
@@ -54,17 +54,6 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'flipit.png',
-    title: 'FlipIt: online flashcards',
-    info:
-      'FlipIt is a flashcard study application I built with a team of four during my UW course. It allows users to create an account, create decks of flashcards, search for decks made by other users and study the cards within the decks.',
-    info2:
-      'The project was created with Node.js, Express, MySQL and Sequelize on the back end and regular JS, CSS, HTML and a bit of jQuery on the front end. I was mostly responsible for setting up our database schemas and API routes, but I also did a fair bit on the front end.',
-    url: '',
-    repo: 'https://github.com/AychDubya/Flipit',
-  },
-  {
-    id: nanoid(),
     img: 'salsmanug.png',
     title: 'Salsman Construction: Brochure site for a local contractor', 
     info:
@@ -73,6 +62,17 @@ export const projectsData = [
       'Salsman Construction was built using WordPress, Elementor and the Wordpress CMS. Some custom CSS and HTML was used to style the site, but most of the design was done with Elementor.',
     url: 'https://salsmanunderground.com/#about',
     repo: '',
+  },
+  {
+    id: nanoid(),
+    img: 'flipit.png',
+    title: 'FlipIt: online flashcards',
+    info:
+      'FlipIt is a flashcard study application I built with a team of four during my UW course. It allows users to create an account, create decks of flashcards, search for decks made by other users and study the cards within the decks.',
+    info2:
+      'The project was created with Node.js, Express, MySQL and Sequelize on the back end and regular JS, CSS, HTML and a bit of jQuery on the front end. I was mostly responsible for setting up our database schemas and API routes, but I also did a fair bit on the front end.',
+    url: '',
+    repo: 'https://github.com/AychDubya/Flipit',
   },
 ];
 
