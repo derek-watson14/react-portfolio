@@ -20,27 +20,16 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.png',
   paragraphOne:
-    "An aspiring data/software engineer with a degree in advertising and experience in web application development, I have been working toward a career in tech for years.",
+    "As an aspiring data/software engineer with a degree in strategic communication and experience in web application development, I have been working toward a career in tech for years.",
   paragraphTwo:
-    "Learning first through googling and online courses, then through a bootcamp, I'm currently honing my data analytics skills and broadening my knowledge of computer science while completing a second bachelor’s degree in computer science at the University of Colorado.",
+    "I initially learned through online resources and courses, and later attended a coding bootcamp to further develop my skills. Currently, I am deepening my knowledge of computer science and enhancing my data analytics skills through a second bachelor's degree at the University of Colorado.",
   paragraphThree:
-    "The courses are challenging and rigorous but I feel more prepared than ever to work in this field and quickly learn to use new technologies to solve problems as they arise.",
+    "Despite the challenges and rigors of these courses, I am now equipped with a deeper understanding of computer science fundamentals beyong 'coding' as a skill. As a result, I feel better equipped than ever to work in this field and quickly adapt to new technologies in order to solve problems effectively.",
   resume: 'https://docs.google.com/document/d/1Inc9zC3Ch67CiwF_n4cEsaZYwJrlquuI_tPq0RdZ0xM',
 };
 
 // PROJECTS DATA
 export const projectsData = [
-  {
-    id: nanoid(),
-    img: 'planit.png',
-    title: 'PLANiT: collaborative trip planning',
-    info:
-      "PLANiT was my group of five's final project for the UW Coding Bootcamp. Our idea was to build a site that would allow users to sign up and create 'trip planning boards', to which they could invite friends and then add or vote on ideas for the trip.",
-    info2:
-      "The project was built in about 10 days using a MERN (MongoDB, Express, React, Node) stack. I was our team's back end lead, and was primarily responsible for building models for our MongoDB collections, writing routes for the many API endpoints and helping the front end team integrate into the API.",
-    url: 'https://travelplanit.herokuapp.com/',
-    repo: 'https://github.com/zackdeacon/planit-backend',
-  },
   {
     id: nanoid(),
     img: 'organic-gold.png',
@@ -54,25 +43,36 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'planit.png',
+    title: 'PLANiT: collaborative trip planning',
+    info:
+      "PLANiT was my group of five's final project for the UW Coding Bootcamp. Our idea was to build a site that would allow users to sign up and create 'trip planning boards', to which they could invite friends and then add or vote on ideas for the trip.",
+    info2:
+      "The project was built in about 10 days using a MERN (MongoDB, Express, React, Node) stack. I was our team's back end lead, and was primarily responsible for building models for our MongoDB collections, writing routes for the many API endpoints and helping the front end team integrate into the API.",
+    url: '',
+    repo: 'https://github.com/zackdeacon/planit-backend',
+  },
+  {
+    id: nanoid(),
     img: 'flipit.png',
     title: 'FlipIt: online flashcards',
     info:
       'FlipIt is a flashcard study application I built with a team of four during my UW course. It allows users to create an account, create decks of flashcards, search for decks made by other users and study the cards within the decks.',
     info2:
       'The project was created with Node.js, Express, MySQL and Sequelize on the back end and regular JS, CSS, HTML and a bit of jQuery on the front end. I was mostly responsible for setting up our database schemas and API routes, but I also did a fair bit on the front end.',
-    url: 'https://flipitstudy.herokuapp.com/',
+    url: '',
     repo: 'https://github.com/AychDubya/Flipit',
   },
   {
     id: nanoid(),
-    img: 'derdiedas.png',
-    title: 'DerDieDas: practice your German',
+    img: 'salsmanug.png',
+    title: 'Salsman Construction: Brochure site for a local contractor', 
     info:
-      'I created DerDieDas in early 2019 when I was living in Germany and first learning both German and programming. Learning things like German noun genders and preposition cases was challenging, so I hoped to put my new programming skills to the test and build a study application.',
+      'I built the website for Salsman Construction (formerly Salsman Underground) in early 2021. The company had no web presence and needed a site to showcase their work and provide contact information.',
     info2:
-      'DerDieDas was built with Flask (Python) and PostgreSQL on the back end and normal HTML, CSS and Javascript on the front. As I built the entire thing with only Google for assistance, it remains one of the projects I am most proud of.',
-    url: 'https://deutsch-grammatik.herokuapp.com/about',
-    repo: 'https://github.com/derek-watson14/DerDieDas',
+      'Salsman Construction was built using WordPress, Elementor and the Wordpress CMS. Some custom CSS and HTML was used to style the site, but most of the design was done with Elementor.',
+    url: 'https://salsmanunderground.com/#about',
+    repo: '',
   },
 ];
 
