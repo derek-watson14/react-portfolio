@@ -2,9 +2,9 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Derek Watson | Developer', // e.g: 'Name | Developer'
-  lang: 'en', // e.g: en, es, fr, jp
-  description: 'Web Development portfolio for Derek Watson', // e.g: Welcome to my website
+  title: 'Derek Watson | Software Developer',
+  lang: 'en',
+  description: 'Web Development portfolio for Derek Watson',
 };
 
 // HERO DATA
@@ -33,7 +33,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'organic-gold.png',
-    title: 'Organic Gold Music: band & recording Studio',
+    title: 'Organic Gold Music: band & recording studio',
     info:
       'Organic Gold is a band and new recording studio based on Bainbridge Island, WA. They needed a website where they could showcase their music, communicate about events and recieve studio requests.',
     info2:
@@ -55,7 +55,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'salsmanug.png',
-    title: 'Salsman Construction: Brochure site for a local contractor', 
+    title: 'Salsman Construction: brochure site for local contractor', 
     info:
       'I built the website for Salsman Construction (formerly Salsman Underground) in early 2021. The company had no web presence and needed a site to showcase their work and provide contact information.',
     info2:
@@ -79,9 +79,10 @@ export const projectsData = [
 // CONTACT DATA
 export const contactData = {
   cta: 'Want to reach out? Get a hold of me at:',
-  btn: "Let's chat",
+  btn: "Resume",
   email: 'derek.watson92@gmail.com',
   phone: '+1 (360) 930-2390',
+  resume: 'https://docs.google.com/document/u/1/d/e/2PACX-1vRRrXf4WywUJI7hhfCc5xOWeJNzWWK1HdU8U-ZKX0IHepqYTonjJmkbmS7KLw74MkLL2Q64_Wg_FO41/pub',
 };
 
 // FOOTER DATA

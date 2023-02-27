@@ -23,9 +23,9 @@ const Contact = () => {
               target="_blank"
               rel="noopener noreferrer"
               className="cta-btn cta-btn--projects"
-              href={email ? `mailto:${email}` : 'https://www.linkedin.com/in/watsonderek/'}
+              href={resume ? resume : 'https://www.linkedin.com/in/watsonderek/'}
             >
-              {btn || "Let's Talk"}
+              {btn || "Resume"}
             </a>
           </div>
         </Fade>
